@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TestDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="GAnswer">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Text" Type="nvarchar" MaxLength="100" />
+    <Property Name="IsCorrect" Type="bit" Nullable="false" />
+    <Property Name="IDqs" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="GQuestion">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Text" Type="nvarchar" MaxLength="300" />
+    <Property Name="Type" Type="int" Nullable="false" />
+    <Property Name="IDts" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="GTest">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="GTestResult">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="70" Nullable="false" />
+    <Property Name="Group" Type="nvarchar" MaxLength="10" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="Result" Type="int" Nullable="false" />
+    <Property Name="IDts" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Answer_ToQuestion">
+    <End Role="GQuestion" Type="Self.GQuestion" Multiplicity="1" />
+    <End Role="GAnswer" Type="Self.GAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GQuestion">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="GAnswer">
+        <PropertyRef Name="IDqs" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Question_ToTest">
+    <End Role="GTest" Type="Self.GTest" Multiplicity="1" />
+    <End Role="GQuestion" Type="Self.GQuestion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GTest">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="GQuestion">
+        <PropertyRef Name="IDts" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TestResult_ToTest">
+    <End Role="GTest" Type="Self.GTest" Multiplicity="1" />
+    <End Role="GTestResult" Type="Self.GTestResult" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="GTest">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="GTestResult">
+        <PropertyRef Name="IDts" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TestDBModelStoreContainer">
+    <EntitySet Name="GAnswer" EntityType="Self.GAnswer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GQuestion" EntityType="Self.GQuestion" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GTest" EntityType="Self.GTest" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="GTestResult" EntityType="Self.GTestResult" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Answer_ToQuestion" Association="Self.FK_Answer_ToQuestion">
+      <End Role="GQuestion" EntitySet="GQuestion" />
+      <End Role="GAnswer" EntitySet="GAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Question_ToTest" Association="Self.FK_Question_ToTest">
+      <End Role="GTest" EntitySet="GTest" />
+      <End Role="GQuestion" EntitySet="GQuestion" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TestResult_ToTest" Association="Self.FK_TestResult_ToTest">
+      <End Role="GTest" EntitySet="GTest" />
+      <End Role="GTestResult" EntitySet="GTestResult" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

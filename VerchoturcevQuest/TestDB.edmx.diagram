@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d9522ac235ff474a8804c3bda2fad121" Name="Diagram1">
+        <EntityTypeShape EntityType="TestDBModel.GAnswer" Width="1.5" PointX="6.75" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestDBModel.GQuestion" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestDBModel.GTest" Width="1.5" PointX="0.5" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TestDBModel.GTestResult" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <AssociationConnector Association="TestDBModel.FK_Answer_ToQuestion" ManuallyRouted="false" />
+        <AssociationConnector Association="TestDBModel.FK_Question_ToTest" ManuallyRouted="false" />
+        <AssociationConnector Association="TestDBModel.FK_TestResult_ToTest" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
