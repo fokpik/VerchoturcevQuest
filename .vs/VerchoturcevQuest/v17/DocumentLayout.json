@@ -1,34 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\",
+  "WorkspaceRootPath": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\verchoturcevquest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VerchoturcevQuest||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|c:\\users\\ser14\\documents\\github\\verchoturcevquest\\verchoturcevquest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|solutionrelative:verchoturcevquest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\verchoturcevquest\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\verchoturcevquest\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|solutionrelative:verchoturcevquest\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\verchoturcevquest\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\verchoturcevquest\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|solutionrelative:verchoturcevquest\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|c:\\users\\ser14\\source\\repos\\1\\verchoturcevquest\\verchoturcevquest\\controllers\\controllerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\verchoturcevquest\\controllers\\controllerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|solutionrelative:verchoturcevquest\\controllers\\controllerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\verchoturcevquest\\testdb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\verchoturcevquest\\testdb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|solutionrelative:verchoturcevquest\\testdb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\verchoturcevquest\\core\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\verchoturcevquest\\core\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|solutionrelative:verchoturcevquest\\core\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\verchoturcevquest\\forms\\formconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\verchoturcevquest\\forms\\formconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|solutionrelative:verchoturcevquest\\forms\\formconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DB733A-0905-4BC3-B20E-A620B4F34374}|VerchoturcevQuest\\VerchoturcevQuest.csproj|c:\\users\\ser14\\documents\\github\\verchoturcevquest\\verchoturcevquest\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +44,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "VerchoturcevQuest",
+              "DocumentMoniker": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\VerchoturcevQuest.csproj",
+              "RelativeDocumentMoniker": "VerchoturcevQuest\\VerchoturcevQuest.csproj",
+              "ToolTip": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\VerchoturcevQuest.csproj",
+              "RelativeToolTip": "VerchoturcevQuest\\VerchoturcevQuest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-20T04:58:15.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ControllerDB.cs",
-              "DocumentMoniker": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\VerchoturcevQuest\\Controllers\\ControllerDB.cs",
+              "DocumentMoniker": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\Controllers\\ControllerDB.cs",
               "RelativeDocumentMoniker": "VerchoturcevQuest\\Controllers\\ControllerDB.cs",
-              "ToolTip": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\VerchoturcevQuest\\Controllers\\ControllerDB.cs",
+              "ToolTip": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\Controllers\\ControllerDB.cs",
               "RelativeToolTip": "VerchoturcevQuest\\Controllers\\ControllerDB.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,34 +73,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Answer.cs",
-              "DocumentMoniker": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\VerchoturcevQuest\\Core\\Answer.cs",
+              "DocumentMoniker": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\Core\\Answer.cs",
               "RelativeDocumentMoniker": "VerchoturcevQuest\\Core\\Answer.cs",
-              "ToolTip": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\VerchoturcevQuest\\Core\\Answer.cs",
+              "ToolTip": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\Core\\Answer.cs",
               "RelativeToolTip": "VerchoturcevQuest\\Core\\Answer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T20:45:44.578Z"
+              "WhenOpened": "2024-06-19T20:45:44.578Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FormConstructor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\VerchoturcevQuest\\Forms\\FormConstructor.cs",
+              "DocumentMoniker": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\Forms\\FormConstructor.cs",
               "RelativeDocumentMoniker": "VerchoturcevQuest\\Forms\\FormConstructor.cs",
-              "ToolTip": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\VerchoturcevQuest\\Forms\\FormConstructor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\Forms\\FormConstructor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "VerchoturcevQuest\\Forms\\FormConstructor.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T20:45:06.439Z"
+              "WhenOpened": "2024-06-19T20:45:06.439Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FormMain.cs",
-              "DocumentMoniker": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\VerchoturcevQuest\\Forms\\FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\Forms\\FormMain.cs",
               "RelativeDocumentMoniker": "VerchoturcevQuest\\Forms\\FormMain.cs",
-              "ToolTip": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\VerchoturcevQuest\\Forms\\FormMain.cs",
+              "ToolTip": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\Forms\\FormMain.cs",
               "RelativeToolTip": "VerchoturcevQuest\\Forms\\FormMain.cs",
               "ViewState": "AQIAAFIAAAAAAAAAAAAQwAsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,11 +111,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\VerchoturcevQuest\\Forms\\FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\Forms\\FormMain.cs",
               "RelativeDocumentMoniker": "VerchoturcevQuest\\Forms\\FormMain.cs",
-              "ToolTip": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\VerchoturcevQuest\\Forms\\FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\Forms\\FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "VerchoturcevQuest\\Forms\\FormMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T20:44:15.835Z",
@@ -103,27 +123,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\VerchoturcevQuest\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\Program.cs",
               "RelativeDocumentMoniker": "VerchoturcevQuest\\Program.cs",
-              "ToolTip": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\VerchoturcevQuest\\Program.cs",
+              "ToolTip": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\Program.cs",
               "RelativeToolTip": "VerchoturcevQuest\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T20:43:20.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TestDB.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\VerchoturcevQuest\\TestDB.edmx",
+              "DocumentMoniker": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\TestDB.edmx",
               "RelativeDocumentMoniker": "VerchoturcevQuest\\TestDB.edmx",
-              "ToolTip": "C:\\Users\\ser14\\source\\repos\\1\\VerchoturcevQuest\\VerchoturcevQuest\\TestDB.edmx [Diagram1]",
+              "ToolTip": "C:\\Users\\ser14\\Documents\\GitHub\\VerchoturcevQuest\\VerchoturcevQuest\\TestDB.edmx [Diagram1]",
               "RelativeToolTip": "VerchoturcevQuest\\TestDB.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-06-19T20:41:27.292Z"
+              "WhenOpened": "2024-06-19T20:41:27.292Z",
+              "EditorCaption": " [Diagram1]"
             }
           ]
         }
